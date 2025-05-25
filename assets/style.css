@@ -7,32 +7,54 @@ body {
 	margin: 0px;
 }
 
+.about-header {
+	padding-left: 50px;	
+	padding-top: 50px;
+}
+
+.about-header img{
+	border: 10mm outset #3ac13a;
+	padding: 0px;
+}
+
 h1 {
-    	color: green;
-	font-size: 9em;
+    	color: #3ac13a;
+		font-size: 9em;
 }
 
 h2 {
-	color: green;
+	color:  #3ac13a;
+	font-family: 'VT323'; 
+	font-size: 20px;
 }
 
 h3 {
-	color: green;
+	color:  #3ac13a;
+	font-family: 'VT323'; 
+	font-size: 20px;
 }
     
 
 h4 {
-	color: green;
+	color:  #3ac13a;
+	font-family: 'VT323'; 
+	font-size: 20px;
 }
 
 h5 {
 	color: red;
+	font-family: 'VT323'; 
+	font-size: 20px;
 }
 
 p {
-	color: green;
+	color:  #3ac13a;
+	font-family: 'VT323'; 
+	font-size: 20px;
 }
 
 li {
-	color: green;
+	color:  #3ac13a;
+	font-family: 'VT323'; 
+	font-size: 20px;
 }
